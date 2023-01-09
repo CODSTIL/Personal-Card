@@ -1,0 +1,31 @@
+.card{
+
+  width: 400px;
+  display: block;
+  margin-top: 200px;
+  margin: 200px auto;
+  padding: 20px;
+  display:flex;
+  justify-content: space-around;
+  text-align: center;
+  background:rgb(209, 223, 247) ;
+  border-bottom: 5px rgb(20, 0, 20) solid;
+  font-style: italic;
+  
+
+}
+
+.Icon{
+  color: #00acee;
+}
+
+
+.Profile{
+ height: 150px;
+ width: 150px;
+ 
+}
+
+ 
+
+  
